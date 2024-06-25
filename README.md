@@ -17,3 +17,5 @@ Correction - Rappels de base : https://nimble-echinacea-d64.notion.site/Correcti
 Cours - Fonctions : https://redstoneformations.fr/Cours/EXTERNE_-_CDA_-_DesCodeuses-6785637274/Cours/C_-_Fonctions/#/
 
 Exercices - Batterie Récursivité : https://nimble-echinacea-d64.notion.site/Enonc-Batterie-R-cursivit-200ccb8423144054b5f36c21ec2241d2?pvs=4
+
+Corrections - Batterie Récursivité : 
