@@ -26,4 +26,6 @@ Correction - Paramètres variables : https://nimble-echinacea-d64.notion.site/Co
 
 Cheatsheet - Malloc : https://nimble-echinacea-d64.notion.site/Cheatsheet-Malloc-d247672df98a430cb06f973493845082?pvs=4
 
+Démonstration - Malloc : https://nimble-echinacea-d64.notion.site/D-monstration-Malloc-959e09bf4e7049c0ac9f1e40ba5c1a2a?pvs=4
+
 Exercice - Malloc : https://nimble-echinacea-d64.notion.site/Enonc-Malloc-ae09e52f662a4bce95ac514ee4026987?pvs=4
