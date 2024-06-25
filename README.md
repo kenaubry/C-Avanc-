@@ -12,6 +12,6 @@ Cours - Rappels de base : https://redstoneformations.fr/Cours/Preview/Cours/vgqz
 
 Exercice - Rappels de base : https://nimble-echinacea-d64.notion.site/Enonc-Rappels-de-base-100901bee65148d6b13c45783e7005c1?pvs=4
 
-Correction - Rappels de base : 
+Correction - Rappels de base : https://nimble-echinacea-d64.notion.site/Correction-Rappels-de-base-5c003336bd7d457ca5acc673c8baeeeb?pvs=4
 
 Cours - Fonctions : https://redstoneformations.fr/Cours/EXTERNE_-_CDA_-_DesCodeuses-6785637274/Cours/C_-_Fonctions/#/
