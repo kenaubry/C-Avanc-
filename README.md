@@ -23,3 +23,5 @@ Corrections - Batterie Récursivité : https://nimble-echinacea-d64.notion.site/
 Exercice - Parametres variables : https://nimble-echinacea-d64.notion.site/Enonc-Param-tres-variables-4907421a77744c50a85c49632f68b9d5?pvs=4
 
 Correction - Paramètres variables : https://nimble-echinacea-d64.notion.site/Correction-Param-tres-variables-eee669327a0942c99683d51c0ce1c803?pvs=4
+
+Cheatsheet - Malloc : https://nimble-echinacea-d64.notion.site/Cheatsheet-Malloc-d247672df98a430cb06f973493845082?pvs=4
