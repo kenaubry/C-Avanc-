@@ -1,4 +1,4 @@
-# Formation C - Avancé - 25/16/06
+# Formation C - Avancé - 25-26/06
 
 ## JOUR 1
 
