@@ -18,4 +18,4 @@ Cours - Fonctions : https://redstoneformations.fr/Cours/EXTERNE_-_CDA_-_DesCodeu
 
 Exercices - Batterie Récursivité : https://nimble-echinacea-d64.notion.site/Enonc-Batterie-R-cursivit-200ccb8423144054b5f36c21ec2241d2?pvs=4
 
-Corrections - Batterie Récursivité : 
+Corrections - Batterie Récursivité : https://nimble-echinacea-d64.notion.site/Correction-Batterie-R-cursivit-8a8d46211e7246a8aeabdfed6470e950?pvs=4
