@@ -11,3 +11,7 @@ Formulaire stagiaire (à remplir à la fin de chaque demi-journée) : https://fo
 Cours - Rappels de base : https://redstoneformations.fr/Cours/Preview/Cours/vgqzimknunjogytshtchzrqvnjdgyj/#/
 
 Exercice - Rappels de base : https://nimble-echinacea-d64.notion.site/Enonc-Rappels-de-base-100901bee65148d6b13c45783e7005c1?pvs=4
+
+Correction - Rappels de base : 
+
+Cours - Fonctions : https://redstoneformations.fr/Cours/EXTERNE_-_CDA_-_DesCodeuses-6785637274/Cours/C_-_Fonctions/#/
