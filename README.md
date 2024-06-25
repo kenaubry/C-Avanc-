@@ -2,4 +2,4 @@
 
 ## JOUR 1
 
-Cours - Rappels de base : 
+Cours - Rappels de base : https://redstoneformations.fr/Cours/Preview/Cours/vgqzimknunjogytshtchzrqvnjdgyj/#/
