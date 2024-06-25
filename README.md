@@ -20,3 +20,4 @@ Exercices - Batterie Récursivité : https://nimble-echinacea-d64.notion.site/En
 
 Corrections - Batterie Récursivité : https://nimble-echinacea-d64.notion.site/Correction-Batterie-R-cursivit-8a8d46211e7246a8aeabdfed6470e950?pvs=4
 
+Exercice - Parametres variables : https://nimble-echinacea-d64.notion.site/Enonc-Param-tres-variables-4907421a77744c50a85c49632f68b9d5?pvs=4
