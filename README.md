@@ -7,3 +7,5 @@ Adresse mail de contact : kenza.aubry@redstoneformations.fr
 ## JOUR 1
 
 Cours - Rappels de base : https://redstoneformations.fr/Cours/Preview/Cours/vgqzimknunjogytshtchzrqvnjdgyj/#/
+
+Exercice - Rappels de base : https://nimble-echinacea-d64.notion.site/Enonc-Rappels-de-base-100901bee65148d6b13c45783e7005c1?pvs=4
