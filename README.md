@@ -25,3 +25,5 @@ Exercice - Parametres variables : https://nimble-echinacea-d64.notion.site/Enonc
 Correction - Paramètres variables : https://nimble-echinacea-d64.notion.site/Correction-Param-tres-variables-eee669327a0942c99683d51c0ce1c803?pvs=4
 
 Cheatsheet - Malloc : https://nimble-echinacea-d64.notion.site/Cheatsheet-Malloc-d247672df98a430cb06f973493845082?pvs=4
+
+Exercice - Malloc : https://nimble-echinacea-d64.notion.site/Enonc-Malloc-ae09e52f662a4bce95ac514ee4026987?pvs=4
