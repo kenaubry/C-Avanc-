@@ -41,3 +41,5 @@ Exercice - Pointeur sur fonction : https://nimble-echinacea-d64.notion.site/Enon
 Correction - Pointeur sur fonction : https://nimble-echinacea-d64.notion.site/Correction-Pointeurs-sur-fonction-6b9baf8b9c7f4863b9880f2695e01fae?pvs=4
 
 Exercice - Indirection à plusieurs niveaux : https://nimble-echinacea-d64.notion.site/Enonc-Indirection-plusieurs-niveaux-0f91d42d09cd4f0ca2bf6612c0ec8a89?pvs=4
+
+Cours - Fichiers bufferisés : https://nimble-echinacea-d64.notion.site/Cours-Fichiers-bufferis-s-901c51df84ff4b93bb7043c2c84df5fe?pvs=4
