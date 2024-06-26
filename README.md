@@ -35,3 +35,5 @@ Exercice - Malloc : https://nimble-echinacea-d64.notion.site/Enonc-Malloc-ae09e5
 Correction - Malloc : https://nimble-echinacea-d64.notion.site/Correction-Malloc-7b7a0d8ed2c1460a8f1986f057647b7e?pvs=4
 
 Cours - Pointeurs : https://redstoneformations.fr/Cours/Preview/Cours/amivjdwejgjfigsmbpcyuslmudikop/#/
+
+Exercice - Pointeur sur fonction : https://nimble-echinacea-d64.notion.site/Enonc-Pointeurs-de-fonction-63db2070fecc4a3db4c92d545279d62c?pvs=4
