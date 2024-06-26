@@ -45,3 +45,5 @@ Exercice - Indirection à plusieurs niveaux : https://nimble-echinacea-d64.notio
 Cours - Fichiers bufferisés : https://nimble-echinacea-d64.notion.site/Cours-Fichiers-bufferis-s-901c51df84ff4b93bb7043c2c84df5fe?pvs=4
 
 Exercice - Fichier bufferisé : https://nimble-echinacea-d64.notion.site/Enonc-Fichier-bufferis-e83d56244d0842c9b9d887f9e8a8f2c1?pvs=4
+
+Correction - Exercices bufferisé : https://nimble-echinacea-d64.notion.site/Correction-Fichier-bufferis-f6d3c3dccb0c477cb1cd2b981a83155c?pvs=4
